@@ -1,16 +1,15 @@
-### Hi there 👋
+### Seja Bem-Vindo(a) ao meu perfil!🎀
 
-<!--
-**roobertawz/roobertawz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Roberta Fachina Batista
 
-Here are some ideas to get you started:
+- Estou criando esse perfil para o curso oferecido pelo governo, da empresa [Alura](https://www.alura.com.br).
+- Estou desenvolvendo na linguagem de computador e muito mais que envolve programação.
+- Vou começar a utilizar esse espaço do GitHub para a minha organização e compartilhamento de meus projetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entra em contato comigo: 📫
+Email - 0000111048222xsp@al.educacao.sp.gov.br
+
+Instagram - @roobertawz_
+
+![](https://media1.tenor.com/m/oizMILdAVsUAAAAC/pham-hanni-hanni-pham.gif)
+
