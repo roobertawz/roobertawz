@@ -1,6 +1,6 @@
 ### Seja Bem-Vindo(a) ao meu perfil!🎀
 
-Meu nome é Roberta Fachina Batista
+Meu nome é Roberta Fachina!
 
 - Estou criando esse perfil para o curso oferecido pelo governo, da empresa [Alura](https://www.alura.com.br).
 - Estou desenvolvendo na linguagem de computador e muito mais que envolve programação.
